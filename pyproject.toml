@@ -20,6 +20,7 @@ dependencies = [
     "weaviate-client>=4.9.0",
     
     # Embeddings & Reranking
+    "openai>=1.0.0",
     "sentence-transformers>=3.3.0",
     
     # API

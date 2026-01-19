@@ -20,7 +20,7 @@ Production-grade Retrieval-Augmented Generation (RAG) system for FDA drug label 
 | 3. Retrieval | 🔲 | Query expansion, hybrid search, reranking |
 | 4. Generation | 🔲 | RAG chain with citations, guardrails |
 | 5. Evaluation | 🔲 | Test set, retrieval/generation metrics |
-| 6. API/Frontend | 🔲 | FastAPI backend, Streamlit UI |
+| 6. API/Frontend | 🔲 | FastAPI backend, Streamlit UI |                                                                                                                                                                                                                                                                                                                                                         
 | 7. Documentation | 🔲 | README, blog post |
 
 ## 🚀 Quick Start
